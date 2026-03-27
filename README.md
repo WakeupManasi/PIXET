@@ -16,7 +16,7 @@ It’s your **coding companion** — helping you generate code, clean your files
 
 ## 🎯 Why Pixit?
 
-Modern development is repetitive, messy, and sometimes overwhelming.
+Modern development is repetitive, messy, and sometimes overwhelming.Pixit doesn't just run scripts; it understands intent.
 
 Pixit solves that by:
 
