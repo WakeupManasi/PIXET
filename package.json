@@ -6,7 +6,9 @@
   "engines": {
     "vscode": "^1.85.0"
   },
-  "categories": ["Other"],
+  "categories": ["Snippets", "Formatters", "Other"],
+  "keywords": ["productivity", "companion", "code generation", "cleanup", "toolkit"],
+  "icon": "assets/icon.png",
   "activationEvents": [
     "onCommand:pixit.generateComponent",
     "onCommand:pixit.cleanFile",
@@ -17,15 +19,15 @@
     "commands": [
       {
         "command": "pixit.generateComponent",
-        "title": "Pixit: Generate Component"
+        "title": "Pixit: ✨ Generate Component"
       },
       {
         "command": "pixit.cleanFile",
-        "title": "Pixit: Clean File"
+        "title": "Pixit: 🧹 Clean File"
       },
       {
         "command": "pixit.openCompanion",
-        "title": "Pixit: Open Companion"
+        "title": "Pixit: 🐾 Open Companion"
       }
     ]
   },
