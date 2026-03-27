@@ -277,7 +277,7 @@ Instead, it focuses on:
 
 ## 🧠 Final Thought
 
-Coding should feel powerful.
+Coding should feel powerful yet easy.
 
 But it should also feel *good*.
 
